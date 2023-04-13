@@ -29,6 +29,5 @@
 - `lifetime_segment` - Сегмент по количеству дней «жизни»;
 - `nps_score` - Оценка клиента в NPS-опросе;
 - `nps_group` - Поле хранит информацию о том, к какой группе относится оценка клиента в опросе;
-## Используемые библиотеки
-os, pandas, numpy, sqlalchemy  
-Дашборд построен в Tableau Public
+## Инструменты
+os, pandas, numpy, sqlalchemy, Tableau
